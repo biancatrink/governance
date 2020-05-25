@@ -3,7 +3,7 @@
 This page will contain processes and guidelines for translating CHAOSS Metrics.
 
 Metrics | Commons | D&I | Evolution | Risk | Value
----- | ---- | ---- | ---- | ----
+---- | ---- | ---- | ---- | ---- | ----
 :uk: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:
 :de: | :green_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle:
 :es: | :green_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle:
