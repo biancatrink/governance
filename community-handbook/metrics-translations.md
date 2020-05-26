@@ -3,7 +3,7 @@
 This page will contain processes and guidelines for translating CHAOSS Metrics.
 
 
-CHAOSS Metrics - Release 202001
+# CHAOSS Metrics - Release 202001
 
 Language | Progress | Download | Contribute
 ---- | ---- | ---- | ----
@@ -19,6 +19,4 @@ Language | Progress | Download | Contribute
 :kr: 한국어 | :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: | Link | Link
 :jp: 日本語 | :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: | Link | Link
 
-:green_circle: Translation finished
-:yellow_circle: Translation in progress
-:white_circle: Nobody is translating
+*Translation Status*: :green_circle: Finished :yellow_circle: Working :white_circle: Unclaimed
