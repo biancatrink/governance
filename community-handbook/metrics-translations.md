@@ -21,4 +21,4 @@ Language | Progress | Download | Contribute
 
 *Translation Status*: :green_circle: Finished :yellow_circle: Working :white_circle: Unclaimed
 
-Each circle represents a focus area: Commons, Diversity & Inclusion, Evolution, Risk, Value.
+Each circle represents a focus area (unordered): Commons, Diversity & Inclusion, Evolution, Risk, and Value.
