@@ -5,7 +5,7 @@ This page will contain processes and guidelines for translating CHAOSS Metrics.
 
 ### CHAOSS Metrics - Release 202001
 
-Language | Progress | Download | Translate
+Language | Progress | Download | Contribute
 ---- | ---- | ---- | ----
 :uk: English | :green_circle: :green_circle: :green_circle: :green_circle: :green_circle: | Link | Link
 :de: Deutsch | :green_circle: :green_circle: :green_circle: :green_circle: :yellow_circle: | Link | Link
