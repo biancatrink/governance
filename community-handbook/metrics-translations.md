@@ -20,3 +20,4 @@ Language | Progress | Download | Contribute
 :jp: 日本語 | :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: | Link | Link
 
 *Translation Status*: :green_circle: Finished :yellow_circle: Working :white_circle: Unclaimed
+Each circle represents a focus area: Commons, Diversity & Inclusion, Evolution, Risk, Value.
